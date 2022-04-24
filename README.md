@@ -5,7 +5,7 @@ Excercícios em C para a disciplina de Logica de programacao (IFPR)
 #### 1) Faça um programa para ler um valor real que representa o valor pago, e um segundo valor que representa o preço do produto e o programa deve retornar o valor do troco.
 <br>
 
-### 2) Faça um programa que leia o salário fixo e o total de vendas efetuadas por um vendedor no mês. Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o salário fixo e salário no final do mês.
+#### 2) Faça um programa que leia o salário fixo e o total de vendas efetuadas por um vendedor no mês. Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o salário fixo e salário no final do mês.
 <br> 
 
 #### 3) Faça um programa para calcuar a média aritmética de três notas de aluno.
