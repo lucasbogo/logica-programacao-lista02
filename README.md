@@ -25,9 +25,7 @@ Compra parcelada
 #### 6) Faça um programa para ler dois valores inteiros e armazenar nas variáveis v1 e v2, e efetuar as trocas dos valores de forma que a variável v1 passe a possuir o valor da variável v2 e a variável v2 passe a possuir o valor da variável v1. Apresentar os valores iniciais e os valores finais trocados.
 <br>
 
-#### 7) Faça um programa que calcule o quadrado e o cubo (utilizando a função pow) de um número
-que deve ser solicitado ao usuário. Use tabulações (\t) para imprimir uma tabela dos valores no
-formato abaixo:
+#### 7) Faça um programa que calcule o quadrado e o cubo (utilizando a função pow) de um número que deve ser solicitado ao usuário. Use tabulações (\t) para imprimir uma tabela dos valores no formato abaixo:
 
 ``` 
 número quadrado cubo
