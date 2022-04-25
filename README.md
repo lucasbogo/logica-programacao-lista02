@@ -1,5 +1,5 @@
 # logica-programacao-lista2
-Excercícios em **C** para a disciplina de Logica de programacao (IFPR)
+Excercícios em **C** para a disciplina de Logica de programação (IFPR)
 <br>
 <br>
 1. Faça um programa para ler um valor real que representa o valor pago, e um segundo valor que representa o preço do produto e o programa deve retornar o valor do troco.
