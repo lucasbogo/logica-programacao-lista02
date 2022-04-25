@@ -3,7 +3,6 @@
 
 
 int main()
-
 {
 	
 	float num,cima,baixo;
